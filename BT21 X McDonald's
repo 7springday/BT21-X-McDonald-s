@@ -1,7 +1,7 @@
 function sendRecurringEmail () {
 
 
-  var recipientEmails = "dl_support@linefriends.com, square_cs@linefriends.com, collection_cs@linefriends.com";
+  var recipientEmails = "dl_support@linefriends.com, ipx_friends_care@linefriends.com, collection_cs@linefriends.com, info_global@linefriends.com";
 
   var cc = "community@bighitcorp.com, protect@bighitmusic.co.kr";
 
